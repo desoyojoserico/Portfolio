@@ -180,12 +180,12 @@ nav ul li a:hover::after{
     padding: 70px;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    max-width: 800px; 
+    width: 800px; 
+    height: 800px;
 }
 
 .container-contact {
-    min-height: 100vh;
-    background-color: #333; 
+    min-height: 100vh; 
     padding: 50px;
     text-align: center;
 }
