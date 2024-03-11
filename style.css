@@ -180,8 +180,8 @@ nav ul li a:hover::after{
     padding: 70px;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    width: 800px; 
-    height: 800px;
+    max-width: 800px; 
+    max-height: 800px;
 }
 
 .container-contact {
